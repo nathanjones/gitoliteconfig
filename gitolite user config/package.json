@@ -1,0 +1,6 @@
+{ "name" : "gitolite_user_config"
+, "description" : "updates the user permissions for the gitolite.conf file"
+, "version" : "0.0.1"
+, "author" : "Nathan Jones <nathan@operationaltransparency.com>"
+, "engines" : { "node" : "0.4.x" }
+}
